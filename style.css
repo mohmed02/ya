@@ -426,7 +426,7 @@ line-height: 1.2em;
      
 .text-name{
     position: absolute;
-    top: 40%;
+    top: 30%;
     display: block;
     text-align: right;
     margin-left: 8%;
@@ -440,7 +440,7 @@ box-shadow:  none;
 }
 .text-tel{
     position: absolute;
-    top: 50%;
+    top: 40%;
     display: block;
     text-align: right;
     margin-left: 8%;
@@ -482,7 +482,7 @@ box-shadow:  none;
 }
 .submit{
 position: absolute;
-top: 90%;
+top: 80%;
     display: block;
     text-align: center;
     margin-left: 40%;
