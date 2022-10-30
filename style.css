@@ -405,7 +405,7 @@ line-height: 1.2em;
 .call-me{
    
     width: 85%;
-    height:80vh;
+    height:60vh;
     background-color: #004c99;
     border-radius: 10px 10px 10px 10px;
     border-color: white;
@@ -415,7 +415,7 @@ line-height: 1.2em;
    overflow: hidden;
 }
 .text-call{
-       margin-bottom: 115%;
+       margin-bottom: 125%;
     font-size: xx-large;
     color: white;
     text-align: center;
