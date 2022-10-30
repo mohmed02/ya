@@ -405,7 +405,7 @@ line-height: 1.2em;
 .call-me{
    
     width: 85%;
-    height:60vh;
+    height:70vh;
     background-color: #004c99;
     border-radius: 10px 10px 10px 10px;
     border-color: white;
@@ -426,7 +426,7 @@ line-height: 1.2em;
      
 .text-name{
     position: absolute;
-    top: 30%;
+    top: 35%;
     display: block;
     text-align: right;
     margin-left: 8%;
@@ -440,7 +440,7 @@ box-shadow:  none;
 }
 .text-tel{
     position: absolute;
-    top: 40%;
+    top: 45%;
     display: block;
     text-align: right;
     margin-left: 8%;
@@ -454,7 +454,7 @@ box-shadow:  none;
 }
 .text-email{
     position: absolute;
-    top: 60%;
+    top: 65%;
     display: block;
     text-align: right;
     margin-left: 8%;
@@ -468,7 +468,7 @@ box-shadow:  none;
 }
 .text-masadge{
     position: absolute;
-    top: 70%;
+    top: 75%;
     display: block;
     text-align: right;
     margin-left: 8%;
@@ -482,7 +482,7 @@ box-shadow:  none;
 }
 .submit{
 position: absolute;
-top: 80%;
+top: 85%;
     display: block;
     text-align: center;
     margin-left: 40%;
